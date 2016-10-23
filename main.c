@@ -7,5 +7,6 @@ int main(void)
 {
 	printf("I will learn a language\n");
 	printf("which language is better\n");
+	printf("I learn python\n");
 	return 0;	
 }
